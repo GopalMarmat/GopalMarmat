@@ -7,7 +7,7 @@ I'm a results-oriented Machine Learning Engineer with over 3 years of hands-on e
 - 💞️ I’m looking to collaborate on innovative ML projects, AI-driven solutions, and large-scale data science initiatives that impact businesses positively.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gopal-marmat-3aa275187/) or drop me an email at gopalmarmat256@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I’m not working on data science projects, I love exploring how AI can improve day-to-day life, and I’m passionate about building recommendation systems to personalize user experiences!
+- ⚡ Fun fact: When I’m not working on data science projects, I keen about AI, and I’m passionate about building real-time project like recommendation systems to personalize user experiences!
 
 <!---
 GopalMarmat/GopalMarmat is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
